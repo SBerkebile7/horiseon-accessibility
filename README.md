@@ -1,9 +1,14 @@
-Updated the classes to narrow down the amount of duplicate CSS lines
+# Horiseon Social Solutions Services
 
-Updated some div's to be semantic
+## Purpose
+A website that offers social media solutions to increase search engine optimization, improve online reputation and social media marketing.
 
-Added alt's to all images on website
+## Built With
+* HTML
+* CSS
 
-Added full company name to website title
+## Website
+https://SBerkebile7.github.io/horiseon-accessibility/
 
-All changes are commented in index.html and style.css, with additional code left commented out
+## Contribution
+Made by Spencer
